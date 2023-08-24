@@ -1,0 +1,4 @@
+#Thu Aug 24 08:45:10 WIB 2023
+base.0=/Users/rafli/Developer/FlutterProject/synapsis/build/app/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
